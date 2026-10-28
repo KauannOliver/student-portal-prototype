@@ -61,7 +61,7 @@ export default function LoginPage() {
           <div className="flex flex-col items-center mb-8">
             <div className="mb-4">
               <Image
-                src="/images/logo-demo-university-oficial.png"
+                src="/images/demo-university-logo.svg"
                 alt="DEMO UNIVERSITY Logo"
                 width={80}
                 height={80}

@@ -40,7 +40,7 @@ export function AdminHeader({ onMenuToggle }: AdminHeaderProps) {
           </Button>
           <div className="flex items-center space-x-3">
             <Image
-              src="/images/logo-demo-university-oficial.png"
+              src="/images/demo-university-logo.svg"
               alt="DEMO UNIVERSITY Logo"
               width={32}
               height={32}
