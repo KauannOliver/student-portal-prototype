@@ -40,14 +40,14 @@ export function AdminHeader({ onMenuToggle }: AdminHeaderProps) {
           </Button>
           <div className="flex items-center space-x-3">
             <Image
-              src="/images/logo-unilavras-oficial.png"
-              alt="UNILAVRAS Logo"
+              src="/images/logo-demo-university-oficial.png"
+              alt="DEMO UNIVERSITY Logo"
               width={32}
               height={32}
               className="object-contain"
             />
             <div>
-              <span className="font-bold text-lg sm:text-xl text-gray-800">UNILAVRAS</span>
+              <span className="font-bold text-lg sm:text-xl text-gray-800">DEMO UNIVERSITY</span>
               <div className="flex items-center space-x-1">
                 <Shield className="h-3 w-3 text-red-600" />
                 <span className="text-xs text-red-600 font-medium">ADMIN</span>

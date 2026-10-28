@@ -7,8 +7,8 @@ import { AuthProvider } from "@/components/auth/auth-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "UNILAVRAS - Portal do Estudante",
-  description: "Portal acadêmico da UNILAVRAS",
+  title: "DEMO UNIVERSITY - Portal do Estudante",
+  description: "Portal acadêmico da DEMO UNIVERSITY",
     generator: 'v0.dev'
 }
 

@@ -61,15 +61,15 @@ export default function LoginPage() {
           <div className="flex flex-col items-center mb-8">
             <div className="mb-4">
               <Image
-                src="/images/logo-unilavras-oficial.png"
-                alt="UNILAVRAS Logo"
+                src="/images/logo-demo-university-oficial.png"
+                alt="DEMO UNIVERSITY Logo"
                 width={80}
                 height={80}
                 className="object-contain"
                 priority
               />
             </div>
-            <h1 className="text-xl font-bold text-gray-800">UNILAVRAS</h1>
+            <h1 className="text-xl font-bold text-gray-800">DEMO UNIVERSITY</h1>
           </div>
 
           {/* Formulário */}

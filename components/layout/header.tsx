@@ -36,13 +36,13 @@ export function Header({ onMenuToggle }: HeaderProps) {
           </Button>
           <div className="flex items-center space-x-3">
             <Image
-              src="/images/logo-unilavras-oficial.png"
-              alt="UNILAVRAS Logo"
+              src="/images/logo-demo-university-oficial.png"
+              alt="DEMO UNIVERSITY Logo"
               width={32}
               height={32}
               className="object-contain"
             />
-            <span className="font-bold text-lg sm:text-xl text-gray-800">UNILAVRAS</span>
+            <span className="font-bold text-lg sm:text-xl text-gray-800">DEMO UNIVERSITY</span>
           </div>
         </div>
 
